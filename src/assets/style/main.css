@@ -143,13 +143,22 @@ body {
 .container{
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     color: white;
 }
-.div1{
-    width: 75%;
+.div1 {
+    width: 80%;
+}
+.photos_div {
+    width: auto;
+    display: flex;
+    flex-flow: row wrap;
+}
+.photos_div img{
+    border: 5px solid #FFFFFF1A;
 }
 .div2{
-    width: 25%;
+    width: 20%;
 }
 .div2 h4, hr{
     opacity: 60%;
