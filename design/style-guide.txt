@@ -1,0 +1,39 @@
+// colors
+brown: #3a3b3d;
+dark_brown: #242627;
+white: #e4e6eb;
+dark_white: 9FA1A6;
+
+// icons:
+search: <i class="fas fa-search"></i>
+plus: <i class="fas fa-plus"></i>
+down: <i class="fas fa-sort-down"></i>
+dots: <i class="fas fa-ellipsis-h"></i>
+like: <i class="far fa-thumbs-up"></i>
+comment: <i class="far fa-comment-alt"></i>
+share: <i class="fas fa-share"></i>
+settings: <i class="fas fa-cog"></i>
+facebook: <i class="icon-fb-logo"></i>
+home: <i class="icon-fb-home"></i>
+pages: <i class="icon-fb-pages"></i>
+watch: <i class="icon-fb-watch"></i>
+groups: <i class="icon-fb-groups"></i>
+gaming: <i class="icon-fb-gaming"></i>
+notifications: <i class="icon-fb-notifications"></i>
+
+
+// logo(f): 
+font-size: 38px;
+
+//logo-container(a element)
+background-color: #1276e8, width/height 40px;
+
+// select input placeholder: 
+input::placeholder { }
+
+// form
+width: 280px;
+height:40px;
+
+// search input
+width: 35px;

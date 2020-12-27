@@ -1,0 +1,51 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../webfonts/icomoon.eot?w923mx');
+  src:  url('../webfonts/icomoon.eot?w923mx#iefix') format('embedded-opentype'),
+    url('../webfonts/icomoon.ttf?w923mx') format('truetype'),
+    url('../webfonts/icomoon.woff?w923mx') format('woff'),
+    url('../webfonts/icomoon.svg?w923mx#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fb-gaming:before {
+  content: "\e901";
+}
+.icon-fb-logo:before {
+  content: "\e902";
+}
+.icon-fb-notifications:before {
+  content: "\e903";
+}
+.icon-fb-more:before {
+  content: "\e904";
+}
+.icon-fb-groups:before {
+  content: "\e905";
+}
+.icon-fb-watch:before {
+  content: "\e906";
+}
+.icon-fb-pages:before {
+  content: "\e907";
+}
+.icon-fb-home:before {
+  content: "\e900";
+}
